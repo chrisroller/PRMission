@@ -1,0 +1,11 @@
+{
+  "name": "matlottery",
+  "version": "1.0.0",
+  "description": "Intended to speed up and streamline the process for volunteers and staff inputting and randomizing our mats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
