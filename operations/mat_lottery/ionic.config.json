@@ -1,0 +1,7 @@
+{
+  "name": "mat_lottery",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
