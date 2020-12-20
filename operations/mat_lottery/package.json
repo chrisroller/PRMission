@@ -1,5 +1,5 @@
 {
-  "name": "matlottery",
+  "name": "mat_lottery",
   "version": "1.0.0",
   "description": "Intended to speed up and streamline the process for volunteers and staff inputting and randomizing our mats",
   "main": "index.js",
